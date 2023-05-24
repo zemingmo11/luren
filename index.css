@@ -1,0 +1,15 @@
+input:nth-child(1) {
+    position: absolute;
+    bottom: 0;
+    left: 20%;
+    transform: translate(-50%);
+}
+input:nth-child(2) {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%);
+}
+body{
+    background-color: skyblue;
+}
